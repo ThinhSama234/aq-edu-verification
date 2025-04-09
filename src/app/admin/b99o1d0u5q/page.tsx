@@ -4,7 +4,7 @@ import F_b99o1d0u5q_Read from "@/modules-features/admin/b99o1d0u5q/F_b99o1d0u5q_
 export default function Page() {
     return (
         <MyPageContent>
-            <F_b99o1d0u5q_Read />
-        </MyPageContent>
+            <F_b99o1d0u5q_Read /> // hello
+        </MyPageContent> 
     )
 }
